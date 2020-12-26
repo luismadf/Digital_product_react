@@ -13,7 +13,7 @@ const Navbar = ({}) => {
       <div class="nav_options">
         <ul>
           <li>
-            <a href="">Faqs</a>
+            <a href="/">Faqs</a>
           </li>
           <li>
             <Link to="/Product">Descripción del Producto</Link>

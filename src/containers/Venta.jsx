@@ -55,14 +55,12 @@ const Venta = (props) => {
                   className="data"
                 />
                 <br />
-                <a href="/Success">
-                  <input
-                    type="submit"
-                    className="main_button"
-                    name="submit"
-                    value="Procesar pago"
-                  />
-                </a>
+                <input
+                  type="submit"
+                  className="main_button"
+                  name="submit"
+                  value="Procesar pago"
+                />
               </form>
             </div>
           </div>
