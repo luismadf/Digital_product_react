@@ -5,7 +5,7 @@ import img1 from "../assets/statics/box2.png";
 import img2 from "../assets/statics/ben2.png";
 import img3 from "../assets/statics/ben3.png";
 
-const Product = ({}) => {
+const Product = () => {
   return (
     <div className="container">
       <div className="row">

@@ -12,7 +12,7 @@ import p2 from "../assets/statics/p2.png";
 import p3 from "../assets/statics/p3.png";
 import p4 from "../assets/statics/p4.png";
 
-const Home = ({}) => {
+const Home = () => {
   return (
     <div className="">
       <div className="main_section fadeIn">

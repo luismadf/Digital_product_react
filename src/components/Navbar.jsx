@@ -2,7 +2,7 @@ import React from "react";
 import { Link } from "react-router-dom";
 import logo from "../assets/statics/logo.png";
 
-const Navbar = ({}) => {
+const Navbar = () => {
   return (
     <nav class="fadeInDown">
       <div class="brand_image">
