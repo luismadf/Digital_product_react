@@ -1,0 +1,48 @@
+@media (max-width: 1250px) {
+  .main_section {
+    font-size: 18px;
+  }
+  .product {
+    margin-top: -180px;
+  }
+  .testimonials .container {
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+  }
+}
+
+@media (max-width: 600px) {
+  .main_section {
+    padding: 10px;
+    margin: 10px;
+  }
+
+  .products {
+    display: inherit;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+
+  .product {
+    margin-top: auto;
+  }
+
+  .characteristics {
+    display: inherit;
+  }
+
+  .characteristic {
+    width: 100%;
+  }
+
+  .testimonials .container {
+    justify-content: space-evenly;
+  }
+
+  .testimonial {
+    width: 50%;
+  }
+}

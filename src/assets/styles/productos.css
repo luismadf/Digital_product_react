@@ -1,0 +1,19 @@
+.row {
+    align-items: center;
+    justify-content: center;
+    margin: 50px 0;
+}
+
+.img_cont {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.img_productos {
+    height: 207px;
+}
+
+.text_cont {
+    margin: auto;
+}
